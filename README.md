@@ -1,6 +1,7 @@
 # Hat Recommender
 
-> Come for the chats;
+> Come for the chats
+> 
 > Stay for the hats
 
 ---
